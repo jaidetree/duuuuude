@@ -226,7 +226,7 @@ meta.function.prototype</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FF87BB</string>
+				<string>#EB6587</string>
 			</dict>
 		</dict>
 		<dict>
@@ -695,7 +695,7 @@ keyword.operator.accessor</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF529A</string>
+				<string>#FF87BB</string>
 			</dict>
 		</dict>
 		<dict>

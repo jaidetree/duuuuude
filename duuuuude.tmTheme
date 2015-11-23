@@ -22,29 +22,31 @@
 				<key>invisibles</key>
 				<string>#3B3A328C</string>
 				<key>lineHighlight</key>
-				<string>#3A2F42</string>
+				<string>#fb84ba30</string>
 				<key>selection</key>
-				<string>#FF00DD24</string>
+				<string>#02E8BB</string>
 				<key>selectionForeground</key>
-				<string>#ffffff</string>
+				<string>#000000</string>
 				<key>findHighlight</key>
 				<string>#FFCC00D4</string>
 				<key>findHighlightForeground</key>
 				<string>#000000</string>
-				<key>selectionBorder</key>
-				<string>#222218</string>
 				<key>activeGuide</key>
 				<string>#CC1D86B0</string>
-				<key>bracketsForeground</key>
-				<string>#A29DFA</string>
 				<key>bracketsOptions</key>
 				<string>underline</string>
-				<key>bracketContentsForeground</key>
-				<string>#B657FF</string>
 				<key>bracketContentsOptions</key>
 				<string>underline</string>
 				<key>tagsOptions</key>
 				<string>stippled_underline</string>
+        <key>gutter</key>
+        <string>#1A111D</string>
+        <key>gutterForeground</key>
+        <string>#d9a5bc</string>
+        <key>highlight</string>
+        <string>#000000</string>
+        <key>stackGuide</string>
+        <string>#fb84ba60</string>
 			</dict>
 		</dict>
 		<dict>
